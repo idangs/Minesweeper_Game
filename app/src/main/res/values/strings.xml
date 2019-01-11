@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Minesweeper</string>
+    <string name="trying">Try</string>
+    <string name="flag">Flag</string>
+    <string name="win_msg">you have WON</string>
+    <string name="lost_msg">you have LOST</string>
+    <string name="status">You are currently in</string>
+    <string name="flagging">Flag Phase</string>
+    <string name="trymessage">Try Phase</string>
+</resources>
